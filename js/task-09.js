@@ -4,15 +4,10 @@ function getRandomHexColor() {
 
 const bodyRef = document.querySelector('body');
 
-console.log(bodyRef);
-
 const colorTextRef = document.querySelector('.color');
-
-console.log(colorTextRef);
 
 const buttonRef = document.querySelector('.change-color');
 
-console.log(buttonRef);
 
 const ChangeBodyColor = () => {
 
